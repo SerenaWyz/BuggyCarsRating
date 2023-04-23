@@ -5,7 +5,8 @@
   - Install the 11.0.2 version of JDK
   - Install Eclipse IDE
   - Install Selenium WebDriver(v3.141.59) and TestNG plugins for Eclipse
-  - Download the Chrome WebDriver and save it in a directory.
+  - Install Google Chrome for Mac(v83.0.4103.116)
+  - Download the Chrome WebDriver(v83.0.4103.116) and save it in a directory.
 + For Interface Testing: Postman
 ## Instructions to Execute the Test:
 + For Automatic Testing: Selenium(Java)
