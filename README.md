@@ -52,19 +52,5 @@
 + JUV Testing
 
 ## 📊Report Bugs
-
-
-Bug ID
-
-|:-----:|
-da|kggg
-|  Contact Us page does not validate input fields
-Severity: High
-Description: The Contact Us page allows users to submit their queries without validating the input fields. This can cause errors when the user submits incomplete or incorrect information.
-Steps to Reproduce:
-Go to https://buggy.justtestit.org/
-Click on Contact Us page
-Leave one or more required fields empty or enter incorrect information
-Click on the Submit button
-Observe that the form is submitted without any validation
-Expected Result: The form should validate all input fields and display error messages for any incomplete or incorrect information entered by the user
+Please check the Word file:
+If you have any question about these issues, please contact with me.😜Thank you.
