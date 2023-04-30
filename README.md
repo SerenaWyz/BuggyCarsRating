@@ -27,6 +27,7 @@
 +  Run the "/src/keyword/testScript/TestSuiteByExcel.java" 
 
 ### Test approach
+Please refer the excel data: /src/keyword/data/BCRtestCase.xlsx
 
 ## 🖥️Compatibility Testing（As my device is limited）
 ### Device
@@ -50,6 +51,9 @@
 ## 🖥️Performance Test
 ### Test approach
 + JUV Testing
++ Concurrent Testing
++ Pressure Testing
+
 
 ## 📊Report Bugs
 Please check the Word file:
