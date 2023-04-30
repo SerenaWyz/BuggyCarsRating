@@ -52,11 +52,11 @@ Please refer the excel data: /src/keyword/data/BCRtestCase.xlsx
 
 ## 🖥️Performance Test
 ### Test approach
-+ JUV Testing
++ JUV Testing:JMeter/Unit Testing:When multi-users（multi-thread） votes, testing the code whether user “synchronized” or ” lock"
 + Concurrent Testing
 + Pressure Testing
 
 
 ## 📊Report Bugs
-Please check the Word file: ;<br>
+Please check the Word file in the email.<br>
 If you have any question about these issues, please contact with me.😜Thank you.
