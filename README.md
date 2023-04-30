@@ -46,6 +46,8 @@ Please refer the excel data: /src/keyword/data/BCRtestCase.xlsx
 ## 🖥️Security Testing
 ### Test approach
 + SQL Injection
++ Cookie/session
++ add JavaScript or HTML code in the field
 
 
 ## 🖥️Performance Test
