@@ -2,7 +2,7 @@
 ## 🧠Testing Strategies：
 + Automatic Testing+Manual Testing
   - Automatic Testing：Smoking Testing
-  - Manual Testing：Special logic Testing 
+  - Manual Testing：Exceptional Situation Testing 
 + Interface Testing
 + Compatibility Testing
 + Security Testing
@@ -14,13 +14,13 @@
 + Selenium WebDriver(Java):Keywords
 + TestNG
 ### Setup
-  - Install the 11.0.2 version of JDK
-  - Install Eclipse IDE
-  - Install Selenium WebDriver(v3.141.59) and TestNG plugins for Eclipse
-  - Install Google Chrome for Mac(v83.0.4103.116)
-  - Install Safari(13.1.2 (13609.3.5.1.5))
-  - Install TestNG
-  - Download the Chrome WebDriver and the Safari WebDriver, save them in a directory.
++ Install the 11.0.2 version of JDK
++ Install Eclipse IDE
++ Install Selenium WebDriver(v3.141.59) and TestNG plugins for Eclipse
++ Install Google Chrome for Mac(v83.0.4103.116)
++ Install Safari(13.1.2 (13609.3.5.1.5))
++ Install TestNG
++ Download the Chrome WebDriver and the Safari WebDriver, save them in a directory.
 ### Instructions to Execute the Test:
 +  Clone or download the project from the provided GitHub repository.
 +  Open the project in Eclipse IDE.
@@ -28,6 +28,13 @@
 
 ### Test approach
 Please refer the excel data: /src/keyword/data/BCRtestCase.xlsx
+## 🖥️Automatic Testing
+### Setup
++ Install postman/Using the webiste of postman
+### Test approach
++ Function Testing
+  - Inputs and outputs
++ Exceptional Situation Testing
 
 ## 🖥️Compatibility Testing（As my device is limited）
 ### Device
