@@ -62,7 +62,7 @@ Please refer the excel data: /src/keyword/data/BCRtestCase.xlsx
 + CSRF
 
 
-## 🖥️Performance Test
+## 🖥️Performance Testing
 ### Test approach
 + Concurrent Testing
   - JUV Testing:JMeter/Unit Testing:When multi-users（multi-thread） votes, testing the code whether user “synchronized” or ” lock"
