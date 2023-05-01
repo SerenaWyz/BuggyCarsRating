@@ -28,13 +28,17 @@
 
 ### Test approach
 Please refer the excel data: /src/keyword/data/BCRtestCase.xlsx
-## 🖥️Automatic Testing
+## 🖥️Interface Testing
 ### Setup
 + Install postman/Using the webiste of postman
 ### Test approach
 + Function Testing
   - Inputs and outputs
+  - Status
 + Exceptional Situation Testing
+  - Multiple to commit
+  - Shutdown or timeout,check the responsive message 
+  - slow internet speed
 
 ## 🖥️Compatibility Testing（As my device is limited）
 ### Device
@@ -54,14 +58,23 @@ Please refer the excel data: /src/keyword/data/BCRtestCase.xlsx
 ### Test approach
 + SQL Injection
 + Cookie/session
-+ add JavaScript or HTML code in the field
++ XSS Injection:add JavaScript or HTML code in the field
++ CSRF
 
 
 ## 🖥️Performance Test
 ### Test approach
-+ JUV Testing:JMeter/Unit Testing:When multi-users（multi-thread） votes, testing the code whether user “synchronized” or ” lock"
 + Concurrent Testing
+  - JUV Testing:JMeter/Unit Testing:When multi-users（multi-thread） votes, testing the code whether user “synchronized” or ” lock"
+  - Responsive Time
+  - Troughput
+  - Service resource use
 + Pressure Testing
+  - Responsive Time
+  - Troughput
+  - Service resource use
+
+
 
 
 ## 📊Report Bugs
